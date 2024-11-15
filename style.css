@@ -1,0 +1,129 @@
+        body {
+            font-family: 'Times New Roman', Times, serif;
+            margin: 0;
+            padding: 0;
+            background-image: url('bg.jpg')
+            
+        }
+
+        .container {
+            width: 80%;
+            max-width: 100%;
+            background-color: #FFFFFF;
+            padding: 20px;
+            margin: 50px auto;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            
+        }
+        
+        .container-header {
+          width: 50%;
+          max-width: 100%;
+          background-color: #FFFFFF;
+          padding: 20px;
+          margin: 50px auto;
+          border-radius: 10px;
+          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        
+        .header {
+            text-align: center;
+        }
+
+        .header img {
+            width: 120px;
+            height: 120px;
+            object-position: center;
+            object-fit: cover;
+            border: 2px solid #FFFFFF;
+            border-radius: 0px;
+            margin-bottom: 0px;
+        }
+
+        .header h1 {
+            margin: 10px;
+            font-size: 24px;
+            color: #000000;
+        }
+
+        .section {
+            margin-bottom: 20px;
+            color: #000000;
+        }
+        
+        .section-title {
+            display: inline-block;
+            background-color: #FFBF10;
+            padding: 5px 10px;
+            border-radius: 10px;
+            color: #000000;
+            font-weight: bold;
+            font-size: 20px;
+            margin-bottom: 20px;
+        }
+  
+        .section-content {
+            margin-top: 10px;
+        }
+
+        .section ul, .section table {
+            margin: 0;
+            padding: 0;
+            color: #000000;
+        }
+
+        .header-logo {
+            text-align: center;
+        }
+
+        .header-logo img{
+            width: 120px;
+            height: 120px;
+            object-position: center;
+            object-fit: cover;
+            border: 2px solid #FFFFFF;
+            border-radius: 100px;
+            margin-bottom: 0px;
+        }
+        
+        .gwc-logo {
+            text-align: center;
+            
+          
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        td {
+            padding: 5px;
+            vertical-align: top;
+        }
+
+        .left-column {
+            width: 25%;
+            font-weight: bold;
+            color: #000000
+        }
+        
+        .left-column-li {
+          width: 50%;
+          padding-left: 20px;
+          font-weight: bold;
+          color: #000000
+        }
+
+        .right-column {
+            width: 40%;
+            font-weight: bold;
+            color: #000000
+        }
+        
+        .right-column-li {
+            width: 30%;
+            font-weight: bold;
+            color: #000000
+        }
